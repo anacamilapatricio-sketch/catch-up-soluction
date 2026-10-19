@@ -1,0 +1,6 @@
+@cAtchUpPlatform.API_HostAddress = http://localhost:5133
+
+GET {{cAtchUpPlatform.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
